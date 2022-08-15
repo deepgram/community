@@ -1,0 +1,1 @@
+![Deepgram full logo in red: DG Deepgram](https://github.com/Virtual-Coffee/.github/raw/main/virtual-coffee-full.png)
