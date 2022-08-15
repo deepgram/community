@@ -18,11 +18,9 @@ Here are some of our fav resources for getting started:
 :dark_sunglasses: Our Community
  ======
 
-:thought_balloon: Have a question, comment, or want to check out the fun we have happening, head over to our [discussions](https://github.com/orgs/deepgram/discussions)
+:thought_balloon: Have a question, comment, or want to check out the fun we have happening, head over to our [discussions](https://github.com/orgs/deepgram/discussions).
 
-:newspaper: Want the latest and greatest info on Machine Learning, Artificial Intelligence, and the cool things our members are building? Sign-up for our newsletter: 
-
-:bird: Want more of our shenanigans, Twitter spaces, and memes? Follow us on [Twitter](https://twitter.com/DeepgramAI)
+:bird: Want more of our shenanigans, Twitter spaces, and memes? Follow us on [Twitter](https://twitter.com/DeepgramAI).
 
 
 Get Started
