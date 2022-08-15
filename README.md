@@ -20,6 +20,7 @@ Here are some of our fav resources for getting started:
 
 :thought_balloon: Have a question, comment, or want to check out the fun we have happening, head over to our [discussions](https://github.com/orgs/deepgram/discussions).
 
+
 :bird: Want more of our shenanigans, Twitter spaces, and memes? Follow us on [Twitter](https://twitter.com/DeepgramAI).
 
 
