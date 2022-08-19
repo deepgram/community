@@ -28,3 +28,7 @@ Get Started
 =====
 If you're ready to get started using Deepgram, head over to [console](https://console.deepgram.com/) to get your API key and free credits to get you started.
 
+Latest Blog Posts
+=====
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
