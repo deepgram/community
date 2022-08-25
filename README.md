@@ -31,10 +31,10 @@ If you're ready to get started using Deepgram, head over to [console](https://co
 Latest Blog Posts
 =====
 <!-- BLOG-POST-LIST:START -->
+- [How To Transcribe Your Podcast with Python](https://developers.deepgram.com/blog/2022/08/create-readable-transcripts-for-podcasts/)
 - [Topic Detection in Podcast Episodes with Python](https://developers.deepgram.com/blog/2022/08/topic-detection-with-python/)
 - [How To Transcribe YouTube Videos From Your Terminal](https://developers.deepgram.com/blog/2022/08/transcribe-youtube-videos-from-terminal/)
 - [How to Use Voice to Control Music with Python and Deepgram](https://developers.deepgram.com/blog/2022/08/voice-controlled-music-with-python/)
 - [Saving Transcripts From Your Terminal](https://developers.deepgram.com/blog/2022/08/saving-transcripts-from-terminal/)
-- [Remembering Cloud To Butt](https://developers.deepgram.com/blog/2022/08/cloud-to-butt/)
 <!-- BLOG-POST-LIST:END -->
 
