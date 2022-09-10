@@ -31,10 +31,10 @@ If you're ready to get started using Deepgram, head over to [console](https://co
 Latest Blog Posts
 =====
 <!-- BLOG-POST-LIST:START -->
+- [Automatically Transcribing Podcast Episodes with Pipedream and Python](https://developers.deepgram.com/blog/2022/09/automatically-transcribe-new-podcasts-pipedream-python/)
 - [Machine Learning for Front-end Developers: Get Started with TensorFlow.js](https://developers.deepgram.com/blog/2022/08/getting-started-with-tensorflowjs/)
 - [Detect Non-Inclusive Language with Retext and Node.js](https://developers.deepgram.com/blog/2022/09/uninclusive-language-retext/)
 - [How To Monitor Media Mentions in Podcasts with Python](https://developers.deepgram.com/blog/2022/08/monitor-media-mentions/)
 - [Transcribe Phone Calls with Twilio Functions and Deepgram](https://developers.deepgram.com/blog/2022/08/transcribe-twilio-calls-functions/)
-- [How to Build the World&#39;s Ugliest Podcast Search Engine with Python](https://developers.deepgram.com/blog/2022/08/podcast-search-engine/)
 <!-- BLOG-POST-LIST:END -->
 
