@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "5"
-          feed_list: "https://developers.deepgram.com/feed.xml"
+          feed_list: "https://blog.deepgram.com/rss.xml"
