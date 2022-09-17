@@ -31,10 +31,10 @@ If you're ready to get started using Deepgram, head over to [console](https://co
 Latest Blog Posts
 =====
 <!-- BLOG-POST-LIST:START -->
-- [Track Brand Mentions Across Podcast Episodes](https://developers.deepgram.com/blog/2022/09/find-podcast-brand-mentions/)
-- [Automatically Transcribing Podcast Episodes with Pipedream and Python](https://developers.deepgram.com/blog/2022/09/automatically-transcribe-new-podcasts-pipedream-python/)
-- [Machine Learning for Front-end Developers: Get Started with TensorFlow.js](https://developers.deepgram.com/blog/2022/08/getting-started-with-tensorflowjs/)
-- [Detect Non-Inclusive Language with Retext and Node.js](https://developers.deepgram.com/blog/2022/09/uninclusive-language-retext/)
-- [How To Monitor Media Mentions in Podcasts with Python](https://developers.deepgram.com/blog/2022/08/monitor-media-mentions/)
+- [Build a Web Scraper With Your Voice Using Python](https://blog.deepgram.com/scrape-a-website-with-your-voice-using-python/)
+- [Just Released: New Version of On-Premises](https://blog.deepgram.com/just-released-new-version-of-on-premises/)
+- [Automatically Transcribing Podcast Episodes with Pipedream and Python](https://blog.deepgram.com/automatically-transcribing-podcast-episodes-with-pipedream-and-python/)
+- [Machine Learning for Front-end Developers: Get Started with TensorFlow.js](https://blog.deepgram.com/machine-learning-for-front-end-developers-get-started-with-tensorflow-js/)
+- [Detect Non-Inclusive Language with Retext and Node.js](https://blog.deepgram.com/detect-non-inclusive-language-with-retext-and-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
