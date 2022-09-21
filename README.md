@@ -33,8 +33,8 @@ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Build a Web Scraper With Your Voice Using Python](https://blog.deepgram.com/scrape-a-website-with-your-voice-using-python/)
 - [Just Released: New Version of On-Premises](https://blog.deepgram.com/just-released-new-version-of-on-premises/)
+- [Track Brand Mentions Across Podcast Episodes](https://blog.deepgram.com/track-brand-mentions-across-podcast-episodes/)
 - [Automatically Transcribing Podcast Episodes with Pipedream and Python](https://blog.deepgram.com/automatically-transcribing-podcast-episodes-with-pipedream-and-python/)
 - [Machine Learning for Front-end Developers: Get Started with TensorFlow.js](https://blog.deepgram.com/machine-learning-for-front-end-developers-get-started-with-tensorflow-js/)
-- [Detect Non-Inclusive Language with Retext and Node.js](https://blog.deepgram.com/detect-non-inclusive-language-with-retext-and-node-js/)
 <!-- BLOG-POST-LIST:END -->
 
