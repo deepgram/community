@@ -31,10 +31,10 @@ If you're ready to get started using Deepgram, head over to [console](https://co
 Latest Blog Posts
 =====
 <!-- BLOG-POST-LIST:START -->
+- [Identifying the Best Agent to Respond in Your IVR System](https://blog.deepgram.com/identifying-the-best-agent-to-respond-in-your-ivr-system/)
 - [Use OpenAI Whisper Speech Recognition with the Deepgram API](https://blog.deepgram.com/use-openai-whisper-speech-recognition-with-the-deepgram-api/)
 - [Improve IVR Prompts with Custom Reporting](https://blog.deepgram.com/improve-ivr-prompts-with-custom-reporting/)
 - [Build a Web Scraper With Your Voice Using Python](https://blog.deepgram.com/scrape-a-website-with-your-voice-using-python/)
 - [Just Released: New Version of On-Premises](https://blog.deepgram.com/just-released-new-version-of-on-premises/)
-- [Track Brand Mentions Across Podcast Episodes](https://blog.deepgram.com/track-brand-mentions-across-podcast-episodes/)
 <!-- BLOG-POST-LIST:END -->
 
