@@ -31,10 +31,10 @@ If you're ready to get started using Deepgram, head over to [console](https://co
 Latest Blog Posts
 =====
 <!-- BLOG-POST-LIST:START -->
+- [Try Whisper: OpenAI&#39;s Speech Recognition Model in 1 Minute](https://blog.deepgram.com/how-to-use-whisper-openais-speech-recognition-model-in-1-minute/)
 - [Introducing Auto-Generated Summaries for Audio Content](https://blog.deepgram.com/introducing-auto-generated-summaries-for-audio-content/)
 - [Now Available: Deepgram Speech Recognition for Twilio Programmable Voice API](https://blog.deepgram.com/now-available-deepgram-speech-recognition-for-twilio-programmable-voice-api/)
 - [Identifying the Best Agent to Respond in Your IVR System](https://blog.deepgram.com/identifying-the-best-agent-to-respond-in-your-ivr-system/)
 - [Building a Conversational AI Flow with Deepgram](https://blog.deepgram.com/building-a-conversational-ai-flow-with-deepgram/)
-- [Use OpenAI Whisper Speech Recognition with the Deepgram API](https://blog.deepgram.com/use-openai-whisper-speech-recognition-with-the-deepgram-api/)
 <!-- BLOG-POST-LIST:END -->
 
