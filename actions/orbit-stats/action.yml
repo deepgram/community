@@ -1,0 +1,5 @@
+name: record-orbit-stats
+description: A GitHub Action to automate recording Orbit stats in Domo
+runs:
+  using: "node16"
+  main: "dist/index.js"
