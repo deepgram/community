@@ -1,7 +1,7 @@
 name: Record Orbit Stats
 on:
   schedule: # Run workflow automatically
-    - cron: '0 1 * * 7' # Runs every Sunday at 1am
+    - cron: '0 1 * * 0' # Runs every Sunday at 1am
 
 jobs:
   record-orbit-stats:
