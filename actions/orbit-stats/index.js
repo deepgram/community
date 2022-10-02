@@ -1,8 +1,6 @@
 import axios from 'axios'
 import pgPromise from 'pg-promise'
-import * as dotenv from 'dotenv'
 import moment from 'moment';
-dotenv.config()
 
 const {
     ORBIT_API_KEY,
@@ -43,7 +41,7 @@ const getOrbitData = async (start_date, end_date) => {
 
 const saveToPostgres = async (stat_date, stats) => {
 
-    const postgresData = await verifyPostgressData(stat_date);
+    const postgresData = await verifyPostgresData(stat_date);
 
     if (postgresData.length !== 0) {
         return;
@@ -95,7 +93,7 @@ const saveToPostgres = async (stat_date, stats) => {
     }
 }
 
-const verifyPostgressData = async (stat_date) => {
+const verifyPostgresData = async (stat_date) => {
     const query = {
         text: 'SELECT * FROM orbit_stats WHERE stat_date = $1',
         values: [stat_date]
