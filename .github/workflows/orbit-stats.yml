@@ -16,6 +16,14 @@ jobs:
 
       - name: Gather and record Orbit stats
         id: orbit-stats
+        env:
+          ORBIT_API_KEY: ${{ secrets.ORBIT_API_KEY }}
+          ORBIT_WORKSPACE_ID: ${{ secrets.ORBIT_WORKSPACE_ID }}
+          PGHOST: ${{ secrets.PGHOST }}
+          PGUSER: ${{ secrets.PGUSER }}
+          PGDATABASE: ${{ secrets.PGDATABASE }}
+          PGPASSWORD: ${{ secrets.PGPASSWORD }}
+          PGPORT: ${{ secrets.PGPORT }}
         run: |
           cd ./actions/orbit-stats
           npm install
