@@ -1,0 +1,23 @@
+name: Record Orbit Stats
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 1 * * 0' # Runs every Sunday at 1am
+
+jobs:
+  record-orbit-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Gather and record Orbit stats
+        id: orbit-stats
+        run: |
+          cd ./actions/orbit-stats
+          npm install
+          npm run build
+          node index.js
