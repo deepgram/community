@@ -1,5 +1,6 @@
 name: Record Orbit Stats
 on:
+  workflow_dispatch:
   schedule: # Run workflow automatically
     - cron: '0 1 * * 0' # Runs every Sunday at 1am
 
