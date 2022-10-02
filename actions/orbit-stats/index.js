@@ -103,7 +103,7 @@ const verifyPostgresData = async (stat_date) => {
     return data
 }
 
-const dt = new moment();
+const dt = new moment.utc().add(-1, 'w');
 
 const start_date = new moment(dt).startOf('week').format('YYYY-MM-DD')
 const end_date = new moment(start_date).add(6, 'd').format('YYYY-MM-DD')
