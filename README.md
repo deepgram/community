@@ -31,10 +31,10 @@ If you're ready to get started using Deepgram, head over to [console](https://co
 Latest Blog Posts
 =====
 <!-- BLOG-POST-LIST:START -->
+- [How to Run OpenAI Whisper in the Command Line](https://blog.deepgram.com/how-to-run-openai-whisper-in-command-line/)
 - [How to Build an OpenAI Whisper API](https://blog.deepgram.com/how-to-build-an-openai-whisper-api/)
 - [Olá! Enhanced Portuguese &lpar;beta&rpar; Speech-to-Text Language Model Now Available](https://blog.deepgram.com/ol%C3%A1-enhanced-portuguese-beta-speech-to-text-language-model-now-available/)
 - [Cześć! We’re Releasing a Base Polish &lpar;beta&rpar; Speech-to-Text Language Model](https://blog.deepgram.com/cze%C5%9B%C4%87-we%E2%80%99re-releasing-a-base-polish-beta-speech-to-text-language-model/)
 - [Try Whisper: OpenAI&#39;s Speech Recognition Model in 1 Minute](https://blog.deepgram.com/how-to-use-whisper-openais-speech-recognition-model-in-1-minute/)
-- [Introducing Auto-Generated Summaries for Audio Content](https://blog.deepgram.com/introducing-auto-generated-summaries-for-audio-content/)
 <!-- BLOG-POST-LIST:END -->
 
