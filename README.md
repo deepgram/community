@@ -31,10 +31,10 @@ If you're ready to get started using Deepgram, head over to [console](https://co
 Latest Blog Posts
 =====
 <!-- BLOG-POST-LIST:START -->
+- [Deepgram and Recall.ai Partner to Make it Easier for Developers to Extract Insights From Meeting Audio and Automate Tedious Workflows](https://blog.deepgram.com/deepgram-and-recall-ai-partner-to-make-it-easier-for-developers-to-extract-insights-from-meeting-audio-and-automate-tedious-workflows/)
+- [What is Code-Switching? And How Did it Make English?](https://blog.deepgram.com/what-is-code-switching-and-how-did-it-make-english/)
 - [Open Source Projects for Hacktoberfest 2022](https://blog.deepgram.com/open-source-projects-for-hacktoberfest-2022/)
 - [Automatically Transcribe, Summarize, and Send Phone Call Summaries](https://blog.deepgram.com/automatically-transcribe-summarize-and-send-phone-call-summaries/)
 - [How to Run OpenAI Whisper in the Command Line](https://blog.deepgram.com/how-to-run-openai-whisper-in-command-line/)
-- [How to Build an OpenAI Whisper API](https://blog.deepgram.com/how-to-build-an-openai-whisper-api/)
-- [Olá! Enhanced Portuguese &lpar;beta&rpar; Speech-to-Text Language Model Now Available](https://blog.deepgram.com/ol%C3%A1-enhanced-portuguese-beta-speech-to-text-language-model-now-available/)
 <!-- BLOG-POST-LIST:END -->
 
