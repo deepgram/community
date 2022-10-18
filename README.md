@@ -32,9 +32,9 @@ Latest Blog Posts
 =====
 <!-- BLOG-POST-LIST:START -->
 - [Build a Presentation Coaching Application with Recall](https://blog.deepgram.com/build-a-presentation-coaching-application-with-recall/)
+- [Top Six Uses Cases for Automatic Speech Recognition &lpar;ASR&rpar; in Social Media](https://blog.deepgram.com/top-six-uses-cases-for-asr-social-media/)
+- [Everything You Need to Know about Keywords for Speech Recognition](https://blog.deepgram.com/everything-you-need-to-know-about-keywords-for-speech-recognition/)
+- [How to Run OpenAI Whisper in Google Colab](https://blog.deepgram.com/how-to-run-openai-whisper-in-google-colab/)
 - [A Note to our Customers: OpenAI Whisper&#39;s Entrance into Voice](https://blog.deepgram.com/a-note-to-our-customers-openai-whispers-entrance-into-voice/)
-- [Exploring OpenAI Whisper Speech Recognition](https://blog.deepgram.com/exploring-whisper/)
-- [Introducing Topic Detection Feature](https://blog.deepgram.com/introducing-topic-detection-feature/)
-- [Deepgram and Recall.ai Partner to Make it Easier for Developers to Extract Insights From Meeting Audio and Automate Tedious Workflows](https://blog.deepgram.com/deepgram-and-recall-ai-partner-to-make-it-easier-for-developers-to-extract-insights-from-meeting-audio-and-automate-tedious-workflows/)
 <!-- BLOG-POST-LIST:END -->
 
