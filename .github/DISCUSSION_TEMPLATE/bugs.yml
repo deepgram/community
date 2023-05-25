@@ -1,0 +1,41 @@
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: "Which Deepgram product are you using?"
+      options:
+        - Deepgram API
+        - Deepgram Console
+        - Deepgram Labeling Software
+        - Deepgram SDKs
+        - Deepgram Docs
+        - On-Prem Deepgram
+        - Deepgram Custom Model Training
+        - Other
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: "Please explain what's going on so we can reproduce the issue."
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: "If you are making a request to the Deepgram API, what is the full Deepgram URL you are making a request to?"
+      placeholder: "e.g. https://api.deepgram.com/v1/listen?model=phonecall&tier=enhanced"
+  - type: input
+    id: request-uuid
+    attributes:
+      label: "If you are making a request to the Deepgram API and have a request ID, please paste it below:"
+      placeholder: "e.g. 00000000-0000-0000-0000-000000000000"
+  - type: textarea
+    id: code
+    attributes:
+      label: If possible, please attach your code or paste it into the text box.
+      description: To attach a file, click inside the text box, then click "Attach files by dragging & dropping" at the bottom of the text box.
+  - type: textarea
+    id: audio-file
+    attributes:
+      label: If possible, please attach an example audio file to reproduce the issue.
+      description: Click inside the text box, then click "Attach files by dragging & dropping" at the bottom of the text box.
