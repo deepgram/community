@@ -1,40 +1,27 @@
-![Deepgram full logo in red: DG Deepgram](dg-logo.png)
+![Deepgram full logo: Deepgram](./deepgram-wordmark-white.svg)
 
-:wave: Hey, we're Deepgram! 
-======
+# 👋 Hi, we're Deepgram!
 
+[Deepgram](https://deepgram.com/) is a foundational AI company providing the speech-to-text and language understanding capabilities you need to make your data readable and actionable by human or machines.
+# We 🤍 Developers, AI Engineers & Data Scientists
 
-[Deepgram](https://deepgram.com/) is a Speech Company whose goal is to have **every voice heard and understood**.  We've revolutionized speech-to-text (STT) with an End-to-End Deep Learning platform. This Artificial Intelligence architectural advantage means users don’t have to compromise on speed, accuracy, scalability, or cost to build the next big idea in voice.   Our easy-to-use APIs allow developers to quickly test and embed our STT solution into their voice product or experience.
-
-:computer: We :heart: developers
-======
-Here are some of our fav resources for getting started:
-- [Python SDK](https://github.com/deepgram/python-sdk)
+Here are some of our favorite resources for getting started:
+- [API Playground](https://playground.deepgram.com/)
+- [Python SDK](https://github.com/deepgram/deepgram-python-sdk)
 - [Node SDK](https://github.com/deepgram/deepgram-node-sdk)
 - [.NET SDK](https://github.com/deepgram/deepgram-dotnet-sdk)
 - [Documentation](https://developers.deepgram.com/documentation/)
-- [Blogposts](https://developers.deepgram.com/blog/)
+- [Blog posts](https://deepgram.com/learn)
 
-:dark_sunglasses: Our Community
- ======
+ # 🌐 Our Community
 
-:thought_balloon: Have a question, comment, or want to check out the fun we have happening, head over to our [discussions](https://github.com/orgs/deepgram/discussions).
-
-
-:bird: Want more of our shenanigans, Twitter spaces, and memes? Follow us on [Twitter](https://twitter.com/DeepgramAI).
+💭 Do you have a question, comment, or want to connect? Head over to our [Github Discussions](https://github.com/orgs/deepgram/discussions) or join us on [Discord](https://discord.com/invite/xWRaCDBtW4).
 
 
-Get Started
-=====
-If you're ready to get started using Deepgram, head over to [console](https://console.deepgram.com/) to get your API key and free credits to get you started.
+🐦 Do you want to keep track of the latest happenings at Deepgram? Follow us on [Twitter](https://twitter.com/DeepgramAI).
 
-Latest Blog Posts
-=====
-<!-- BLOG-POST-LIST:START -->
-- [Build a Presentation Coaching Application with Recall](https://blog.deepgram.com/build-a-presentation-coaching-application-with-recall/)
-- [Enhanced Messaging in Streaming](https://blog.deepgram.com/enhanced-messaging-in-streaming/)
-- [Top Six Uses Cases for Automatic Speech Recognition &lpar;ASR&rpar; in Social Media](https://blog.deepgram.com/top-six-uses-cases-for-asr-social-media/)
-- [Everything You Need to Know about Keywords for Speech Recognition](https://blog.deepgram.com/everything-you-need-to-know-about-keywords-for-speech-recognition/)
-- [How to Run OpenAI Whisper in Google Colab](https://blog.deepgram.com/how-to-run-openai-whisper-in-google-colab/)
-<!-- BLOG-POST-LIST:END -->
+
+# 🚀 Get Started
+
+If you're ready to get started using Deepgram, head over to the [Deepgram Console](https://console.deepgram.com/signup) to get your free API key and free credits and  start building with our powerful transcription & speech understanding [API](https://developers.deepgram.com/reference/).
 
