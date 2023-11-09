@@ -1,0 +1,23 @@
+name: Discussion Auto-Reply
+
+on:
+  discussion:
+    types: [created]
+
+jobs:
+  auto_reply:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Reply
+      uses: actions/github-script@v5
+      with:
+        token: ${{ secrets.GH_DEEPGRAM_ROBOT_RW }}
+        script: |
+          const {owner, repo, number} = context.issue;
+          const message = `Thanks for asking your question. Please be sure to include as much detail as possible so we can assist you efficiently. Consider adding:\n- The `request_id` if you have a question about your requests or transcription responses.\n- The features you used or the full `api.deepgram.com` URL you sent your request to, including parameters.\n- Any code snippets you can share.`;
+          github.rest.discussions.createReply({
+            owner: owner,
+            repo: repo,
+            discussion_number: number,
+            body: message
+          });
