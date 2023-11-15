@@ -22,7 +22,7 @@ jobs:
             }`;
             const variables = {
               input: {
-                body: 'Thanks for asking your question about Deepgram! If you didn't already include it in your post, please be sure to add as much detail as possible so we can assist you efficiently, such as:\n- The `request_id` if you have a question about your requests or transcription responses.\n- The features you used or the full `api.deepgram.com` URL you sent your request to, including parameters.\n- Any code snippets you can share.',
+                body: 'Thanks for asking your question about Deepgram! If you didn\'t already include it in your post, please be sure to add as much detail as possible so we can assist you efficiently, such as:\n- The `request_id` if you have a question about your requests or transcription responses.\n- The features you used or the full `api.deepgram.com` URL you sent your request to, including parameters.\n- Any code snippets you can share.',
                 discussionId: context.payload.discussion.node_id,
               }
             }
