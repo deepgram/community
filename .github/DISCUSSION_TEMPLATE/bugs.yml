@@ -3,6 +3,7 @@ body:
     id: product
     attributes:
       label: "Which Deepgram product are you using?"
+      description: "Please specify the version number, if appropriate, in the Details section."
       options:
         - Deepgram API
         - Deepgram Console
@@ -16,7 +17,7 @@ body:
     id: details
     attributes:
       label: Details
-      description: "Please explain what's going on so we can reproduce the issue."
+      description: "Please explain what's going on so we can reproduce the issue. If you are using an SDK, please specify the SDK language and version number."
     validations:
       required: true
   - type: input
@@ -38,4 +39,4 @@ body:
     id: audio-file
     attributes:
       label: If possible, please attach an example audio file to reproduce the issue.
-      description: Click inside the text box, then click "Attach files by dragging & dropping" at the bottom of the text box.
+      description: Click inside the text box, then click "Attach files by dragging & dropping" at the bottom of the text box. You'll need to zip the file(s).
