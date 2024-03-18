@@ -4,8 +4,6 @@ body:
     attributes:
       label: "Which Deepgram product feature are you using?"
       description: "Please specify the version number, if appropriate, in the Details section."
-      validations:
-        required: true
       options:
         - Deepgram API - TTS
         - Deepgram API - STT Pre-recorded
@@ -16,8 +14,8 @@ body:
         - Deepgram On-Prem
         - Deepgram Open source
         - Other
-    validations:
-      required: true
+      validations:
+        required: true
   - type: textarea
     id: details
     attributes:
