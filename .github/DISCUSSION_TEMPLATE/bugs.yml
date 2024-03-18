@@ -2,16 +2,19 @@ body:
   - type: dropdown
     id: product
     attributes:
-      label: "Which Deepgram product are you using?"
+      label: "Which Deepgram product feature are you using?"
       description: "Please specify the version number, if appropriate, in the Details section."
+      validations:
+        required: true
       options:
-        - Deepgram API
+        - Deepgram API - TTS
+        - Deeepgram API - STT Pre-recorded
+        - Deeepgram API - STT Streaming
         - Deepgram Console
-        - Deepgram Labeling Software
         - Deepgram SDKs
         - Deepgram Docs
-        - On-Prem Deepgram
-        - Deepgram Custom Model Training
+        - Deepgram On-Prem
+        - Deepram Open source
         - Other
   - type: textarea
     id: details
