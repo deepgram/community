@@ -8,12 +8,16 @@ body:
         - Deepgram API - TTS
         - Deepgram API - STT Pre-recorded
         - Deepgram API - STT Streaming
+        - Deepgram API - STT Pre-recorded
+        - Deepgram API - STT Streaming
         - Deepgram Console
         - Deepgram SDKs
         - Deepgram Docs
         - Deepgram On-Prem
         - Deepgram Open source
         - Other
+    validations:
+      required: true
   - type: textarea
     id: details
     attributes:
