@@ -14,15 +14,15 @@ body:
         - Deepgram On-Prem
         - Deepgram Open source
         - Other
-      validations:
-        required: true
+    validations:
+      required: true
   - type: textarea
     id: details
     attributes:
       label: Details
       description: "Please explain what's going on so we can reproduce the issue. If you are using an SDK, please specify the SDK language and version number."
-      validations:
-        required: true
+    validations:
+      required: true
   - type: input
     id: url
     attributes:
