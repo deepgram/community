@@ -14,7 +14,7 @@ body:
         - Deepgram SDKs
         - Deepgram Docs
         - Deepgram On-Prem
-        - Deepram Open source
+        - Deepgram Open source
         - Other
   - type: textarea
     id: details
