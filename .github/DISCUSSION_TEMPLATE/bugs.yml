@@ -18,7 +18,7 @@ body:
     id: details
     attributes:
       label: Details
-      description: "Please explain what's going on so we can reproduce the issue. If you are using an SDK, please specify the SDK language and version number."
+      description: "Please explain your problem so we can reproduce the issue. If you are using an SDK, please specify the SDK language and version number."
   - type: input
     id: url
     attributes:
