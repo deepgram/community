@@ -16,6 +16,8 @@ body:
         - Deepgram On-Prem
         - Deepgram Open source
         - Other
+    validations:
+      required: true
   - type: textarea
     id: details
     attributes:
