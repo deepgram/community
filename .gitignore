@@ -1,0 +1,47 @@
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Ignore node_modules if using JavaScript/Node.js actions
+node_modules/
+
+# Ignore Python virtual environment if using Python actions
+venv/
+.env/
+
+# Ignore compiled language files
+*.class
+*.o
+*.out
+*.so
+
+# Ignore build artifacts
+dist/
+build/
+coverage/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Docker-related files
+.dockerignore
+docker-compose.override.yml
+docker-compose.yml
+.DS_Store
+
+# Ignore any specific GitHub Action cache or temporary files
+.github/workflows/cache/
+.github/actions/cache/
+.github/workflows/*.log
+.github/actions/*.log
+
+# Ignore custom sensitive or environment-specific files
+secrets.env
+.secrets
+.env.local
+
+# Ignore macOS system files
+.DS_Store
