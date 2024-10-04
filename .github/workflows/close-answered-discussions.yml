@@ -1,0 +1,58 @@
+name: Close Answered Discussions
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # Runs every Monday at midnight
+
+jobs:
+  close-answered-discussions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close Answered Discussions
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.DISCUSSIONS_CLOSER }}
+          script: |
+            const { graphql } = github;
+
+            const query = `{
+              repository(owner: "deepgram", name: "community") {
+                discussions(first: 100, states: [OPEN]) {
+                  nodes {
+                    id
+                    title
+                    number
+                    isAnswered
+                    url
+                  }
+                }
+              }
+            }`;
+
+            const result = await graphql(query, {
+              headers: {
+                authorization: `token ${{ secrets.DISCUSSIONS_CLOSER }}`
+              }
+            });
+
+            // Loop through the discussions and close the ones marked as answered
+            for (const discussion of result.repository.discussions.nodes) {
+              if (discussion.isAnswered) {
+                console.log(`Closing answered discussion: ${discussion.title} (${discussion.url})`);
+
+                await graphql(`
+                  mutation($id: ID!) {
+                    closeDiscussion(input: {discussionId: $id}) {
+                      discussion {
+                        title
+                      }
+                    }
+                  }
+                `, {
+                  headers: {
+                    authorization: `token ${{ secrets.DISCUSSIONS_CLOSER }}`
+                  },
+                  id: discussion.id
+                });
+              }
+            }
